@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=wagner-de-souza-frança" target="_blank">Follow on LinkedIn</a>
 
 <html> 
+      <css>
       <style>
         .libutton {
           display: flex;
@@ -31,8 +32,9 @@ Here are some ideas to get you started:
           font-family: "SF Pro Text", Helvetica, sans-serif;
         }
       </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=wagner-de-souza-frança" target="_blank">Follow on LinkedIn</a>
+      </css>
 </html>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=wagner-de-souza-frança" target="_blank">Follow on LinkedIn</a>
 
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
