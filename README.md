@@ -1,41 +1,13 @@
-## Hi there 👋
+# Hi! I'm Wagner 👋
 
-
-**WagnerSFranca123/WagnerSFranca123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ETECAP - Campinas/SP;
-- 🌱 I’m currently learning Programming Logic, Algorithms, Java, Cisco NetAcad;
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
-- 📫 How to reach me: <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=wagner-de-souza-frança" target="_blank">Follow on LinkedIn</a>
-
-<html> 
-      <css>
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-      </css>
-</html>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=wagner-de-souza-frança" target="_blank">Follow on LinkedIn</a>
-
+### I’m currently working on ETECAP - Campinas/SP and learning Programming Logic, Algorithms, Java, Cisco NetAcad.<br>
+### I'm studying IT to develop technical skills. You can check my resume on my Linkedin or contact me by email through the links below.
+<p align='center'>📫 How to reach me:<br> <a href="mailto:wagnerdesouzafranca@gmail.com" target="_blank">wagnerdesouzafranca@gmail.com</a></p>   
+<a class="libutton" href="https://www.linkedin.com/in/wagner-de-souza-fran%C3%A7a/" target="_blank">
+<p align='center'>
+<img height = 25 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" a class="libutton" href="https://www.linkedin.com/in/wagner-de-souza-fran%C3%A7a/" target = "_blank">
+</p>
+</a>
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
